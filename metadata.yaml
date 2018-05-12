@@ -1,0 +1,38 @@
+_repo: An-Introduction-to-Shakespeare_30982
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: MacCracken, H. N. (Henry Noble)
+    alias: MacCracken, Henry Noble
+    birthdate: 1880
+    deathdate: 1970
+    gutenberg_agent_id: '34931'
+    url: http://www.gutenberg.org/2009/agents/34931
+  - agent_name: Durham, W. H. (Willard Higley)
+    alias: Durham, Willard Higley
+    birthdate: 1883
+    gutenberg_agent_id: '34933'
+    url: http://www.gutenberg.org/2009/agents/34933
+  - agent_name: Pierce, F. E. (Frederick Erastus)
+    alias: Pierce, Frederick Erastus
+    birthdate: 1878
+    deathdate: 1935
+    gutenberg_agent_id: '34932'
+    url: http://www.gutenberg.org/2009/agents/34932
+description: ''
+gutenberg_issued: '2010-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Handbooks, manuals, etc.'
+title: An Introduction to Shakespeare
+url: http://www.gutenberg.org/ebooks/30982
